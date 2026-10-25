@@ -1,0 +1,9 @@
+# Unity IL2CPP / debug dumps. The player build does not need these.
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# Saved visitor pledges include names, emails, and photos.
+Windows/pledges.json
+Windows/Pledges/
+
+# Local editor settings
+.vscode/
